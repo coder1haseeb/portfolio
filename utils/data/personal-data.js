@@ -2,7 +2,7 @@ export const personalData = {
   name: "M Haseeb Idrees",
   profile: '/profile.png',
   designation: "Software Developer & Web Engineer",
-  description: "My name is Muhammad Haseeb Idrees. I am a professional and enthusiastic programmer in my daily life. I am a quick learner with a self-learning attitude. I love to learn and explore new technologies and am passionate about problem-solving. I love almost all the stacks of web application development and love to make the web more open to the world. My core skill is based on JavaScript and I love to do most of the things using JavaScript. I am available for any kind of job opportunity that suits my skills and interests.",
+  description: "Muhammad Haseeb Idrees is a passionate full-stack web developer and problem solver. With expertise in JavaScript and a self-taught learning attitude, I specialize in building dynamic web applications. My skills include front-end technologies like React and Next.js, as well as back-end development with Node.js, Express.js, Python, Django. I am always eager to learn new technologies and contribute to open web development. If you're looking for a dedicated developer with a focus on JavaScript and full-stack solutions, I am available for exciting job opportunities that align with my expertise.",
   email: 'mhaseeb.webdev@gmail.com',
   phone: '+92 341 444 3962',
   address: 'Shahdara, Lahore, Punjab, Pakistan - 54000 ',
